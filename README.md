@@ -1,4 +1,4 @@
-# C-Proje-Örnekleri
+# C#-Proje-Örnekleri
 
 2 Kolay 1 Orta 1 Zor Projeler Var
 
