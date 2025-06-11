@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\C#-Örnek3\C#-Örnek3\bin\Debug\C#-Örnek3.exe.config
+C:\Users\mitha\source\repos\C#-Örnek3\C#-Örnek3\bin\Debug\C#-Örnek3.exe
+C:\Users\mitha\source\repos\C#-Örnek3\C#-Örnek3\bin\Debug\C#-Örnek3.pdb
+C:\Users\mitha\source\repos\C#-Örnek3\C#-Örnek3\obj\Debug\C#-Örnek3.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\C#-Örnek3\C#-Örnek3\obj\Debug\C#-Örnek3.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\C#-Örnek3\C#-Örnek3\obj\Debug\C#-Örnek3.exe
+C:\Users\mitha\source\repos\C#-Örnek3\C#-Örnek3\obj\Debug\C#-Örnek3.pdb
